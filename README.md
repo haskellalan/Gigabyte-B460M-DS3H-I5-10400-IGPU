@@ -30,6 +30,6 @@ The config.plist is configured to run UHD 630 as the primary display, the HDMI c
 If you have an uncompatible discrete GPU and want to run windows dual boot, you will need to add -wegnoegpu to the boot arguments, also, according to what OS you want to boot, you will need to change BIOS settings and switch the HDMI cable from motherboard to gpu and vice versa. 
 I recommend saving two BIOS profiles, one for hackintosh and one for Windows.
 
-BIOS settins for Hackintosh:
+BIOS settings for Hackintosh:
 
 -in progress
