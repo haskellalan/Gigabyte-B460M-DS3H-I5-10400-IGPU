@@ -1,15 +1,25 @@
 # Gigabyte-B460M-DS3H-V1-I5-10400-IGPU Hackintosh
 
+
 My setup:
 
 -i5 10400 (Comet Lake)
+
 -Gigabyte B460M-DS3H V1 
+
 -BIOS version: F5
+
 -UHD 630 IGPU
+
 -16 GB RAM
+
 -256 GB NVME SSD
+
 -512 GB SATA HDD
+
 -NVIDIA GTX 1660TI (Disabled on Hackintosh, Turing GPUs are not supported. Used only for windows dual boot)
+
+
 
 HDMI and USB mapped
 
