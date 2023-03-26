@@ -806,7 +806,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>-wegnoegpu</string>
+				<string></string>
 				<key>csr-active-config</key>
 				<data>ZwAAAA==</data>
 			</dict>
@@ -871,7 +871,7 @@
 			<key>SystemProductName</key>
 			<string>iMac20,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02J59YQPN5R</string>
+			<string>C02769YQPN5R</string>
 			<key>SystemUUID</key>
 			<string>4BFFD282-B3A6-42EC-846F-E4F0CDE7BD3C</string>
 		</dict>
